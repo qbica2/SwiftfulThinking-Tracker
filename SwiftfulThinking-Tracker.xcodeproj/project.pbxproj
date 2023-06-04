@@ -11,6 +11,7 @@
 		E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087672A2C9EC30027C8B1 /* ContentView.swift */; };
 		E000876A2A2C9EC40027C8B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E00087692A2C9EC40027C8B1 /* Assets.xcassets */; };
 		E000876D2A2C9EC40027C8B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E000876C2A2C9EC40027C8B1 /* Preview Assets.xcassets */; };
+		E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E00087672A2C9EC30027C8B1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E00087692A2C9EC40027C8B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E000876C2A2C9EC40027C8B1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E00087652A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift */,
 				E00087672A2C9EC30027C8B1 /* ContentView.swift */,
+				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */,
+				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
