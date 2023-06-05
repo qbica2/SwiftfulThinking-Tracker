@@ -19,6 +19,7 @@
 		E00087802A2E00920027C8B1 /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000877F2A2E00920027C8B1 /* ImageBootcamp.swift */; };
 		E00087822A2E04390027C8B1 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087812A2E04390027C8B1 /* FrameBootcamp.swift */; };
 		E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */; };
+		E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		E000877F2A2E00920027C8B1 /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		E00087812A2E04390027C8B1 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
+		E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				E00087812A2E04390027C8B1 /* FrameBootcamp.swift */,
 				E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */,
 				E000877F2A2E00920027C8B1 /* ImageBootcamp.swift */,
+				E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */,
 				E00087672A2C9EC30027C8B1 /* ContentView.swift */,
 				E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */,
 				E000877B2A2DF0BE0027C8B1 /* GradientsBootcamp.swift */,
@@ -169,6 +172,7 @@
 				E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */,
 				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
+				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
 				E00087802A2E00920027C8B1 /* ImageBootcamp.swift in Sources */,
 				E000877E2A2DF5370027C8B1 /* IconsBootcamp.swift in Sources */,
 			);

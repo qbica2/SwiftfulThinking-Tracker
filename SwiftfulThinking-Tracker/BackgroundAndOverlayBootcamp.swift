@@ -63,7 +63,7 @@ struct BackgroundAndOverlayBootcamp: View {
 //                , alignment: .bottomTrailing
 //            )
             
-        //MARK: - ReelWorld Example
+        //MARK: - Real World Example
         
         Image(systemName: "heart.fill")
             .font(.system(size: 40))
