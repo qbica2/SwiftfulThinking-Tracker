@@ -13,6 +13,7 @@
 		E000876D2A2C9EC40027C8B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E000876C2A2C9EC40027C8B1 /* Preview Assets.xcassets */; };
 		E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */; };
 		E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */; };
+		E000877A2A2DE9E20027C8B1 /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E000876C2A2C9EC40027C8B1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
 		E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
+		E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				E00087652A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift */,
 				E00087672A2C9EC30027C8B1 /* ContentView.swift */,
+				E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */,
 				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E000877A2A2DE9E20027C8B1 /* ColorsBootcamp.swift in Sources */,
 				E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */,
 				E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */,
 				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
