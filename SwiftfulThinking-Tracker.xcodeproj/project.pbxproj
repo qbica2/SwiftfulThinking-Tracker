@@ -25,6 +25,7 @@
 		E000878C2A2F4C1A0027C8B1 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */; };
 		E000878E2A2F59EF0027C8B1 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */; };
 		E00087902A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878F2A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift */; };
+		E00087922A2F77280027C8B1 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087912A2F77280027C8B1 /* GridBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 		E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 		E000878F2A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
+		E00087912A2F77280027C8B1 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */,
 				E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */,
 				E000878F2A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift */,
+				E00087912A2F77280027C8B1 /* GridBootcamp.swift */,
 				E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */,
 				E00087672A2C9EC30027C8B1 /* ContentView.swift */,
 				E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */,
@@ -193,6 +196,7 @@
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
 				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
 				E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */,
+				E00087922A2F77280027C8B1 /* GridBootcamp.swift in Sources */,
 				E00087802A2E00920027C8B1 /* ImageBootcamp.swift in Sources */,
 				E000877E2A2DF5370027C8B1 /* IconsBootcamp.swift in Sources */,
 			);
