@@ -20,6 +20,7 @@
 		E00087822A2E04390027C8B1 /* FrameBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087812A2E04390027C8B1 /* FrameBootcamp.swift */; };
 		E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */; };
 		E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */; };
+		E00087882A2F38580027C8B1 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087872A2F38580027C8B1 /* PaddingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		E00087812A2E04390027C8B1 /* FrameBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameBootcamp.swift; sourceTree = "<group>"; };
 		E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundAndOverlayBootcamp.swift; sourceTree = "<group>"; };
 		E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
+		E00087872A2F38580027C8B1 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				E00087652A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift */,
 				E000877D2A2DF5370027C8B1 /* IconsBootcamp.swift */,
 				E00087812A2E04390027C8B1 /* FrameBootcamp.swift */,
+				E00087872A2F38580027C8B1 /* PaddingBootcamp.swift */,
 				E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */,
 				E000877F2A2E00920027C8B1 /* ImageBootcamp.swift */,
 				E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */,
@@ -166,6 +169,7 @@
 			files = (
 				E000877C2A2DF0BE0027C8B1 /* GradientsBootcamp.swift in Sources */,
 				E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				E00087882A2F38580027C8B1 /* PaddingBootcamp.swift in Sources */,
 				E000877A2A2DE9E20027C8B1 /* ColorsBootcamp.swift in Sources */,
 				E00087822A2E04390027C8B1 /* FrameBootcamp.swift in Sources */,
 				E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */,
