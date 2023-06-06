@@ -24,6 +24,7 @@
 		E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */; };
 		E000878C2A2F4C1A0027C8B1 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */; };
 		E000878E2A2F59EF0027C8B1 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */; };
+		E00087902A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878F2A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
 		E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		E000878F2A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */,
 				E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */,
 				E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */,
+				E000878F2A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift */,
 				E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */,
 				E00087672A2C9EC30027C8B1 /* ContentView.swift */,
 				E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */,
@@ -178,6 +181,7 @@
 			files = (
 				E000877C2A2DF0BE0027C8B1 /* GradientsBootcamp.swift in Sources */,
 				E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				E00087902A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift in Sources */,
 				E00087882A2F38580027C8B1 /* PaddingBootcamp.swift in Sources */,
 				E000877A2A2DE9E20027C8B1 /* ColorsBootcamp.swift in Sources */,
 				E00087822A2E04390027C8B1 /* FrameBootcamp.swift in Sources */,
