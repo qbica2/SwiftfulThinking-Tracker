@@ -23,6 +23,7 @@
 		E00087882A2F38580027C8B1 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087872A2F38580027C8B1 /* PaddingBootcamp.swift */; };
 		E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */; };
 		E000878C2A2F4C1A0027C8B1 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */; };
+		E000878E2A2F59EF0027C8B1 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		E00087872A2F38580027C8B1 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 		E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 		E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				E00087872A2F38580027C8B1 /* PaddingBootcamp.swift */,
 				E00087832A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift */,
 				E000877F2A2E00920027C8B1 /* ImageBootcamp.swift */,
+				E000878D2A2F59EF0027C8B1 /* ForEachBootcamp.swift */,
 				E00087892A2F3D6E0027C8B1 /* SpacerBootcamp.swift */,
 				E000878B2A2F4C1A0027C8B1 /* InitializerBootcamp.swift */,
 				E00087852A2E23E10027C8B1 /* StacksBootcamp.swift */,
@@ -181,6 +184,7 @@
 				E000878C2A2F4C1A0027C8B1 /* InitializerBootcamp.swift in Sources */,
 				E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */,
 				E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */,
+				E000878E2A2F59EF0027C8B1 /* ForEachBootcamp.swift in Sources */,
 				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
 				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
