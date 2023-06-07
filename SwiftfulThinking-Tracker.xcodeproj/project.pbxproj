@@ -32,6 +32,7 @@
 		E000879A2A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087992A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift */; };
 		E000879C2A3096210027C8B1 /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000879B2A3096210027C8B1 /* ExtractSubviewsBootcamp.swift */; };
 		E000879E2A30A80C0027C8B1 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000879D2A30A80C0027C8B1 /* BindingBootcamp.swift */; };
+		E00087A02A30BE7A0027C8B1 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E000879F2A30BE7A0027C8B1 /* ConditionalBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		E00087992A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		E000879B2A3096210027C8B1 /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		E000879D2A30A80C0027C8B1 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
+		E000879F2A30BE7A0027C8B1 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				E00087672A2C9EC30027C8B1 /* ContentView.swift */,
 				E000879D2A30A80C0027C8B1 /* BindingBootcamp.swift */,
 				E00087792A2DE9E20027C8B1 /* ColorsBootcamp.swift */,
+				E000879F2A30BE7A0027C8B1 /* ConditionalBootcamp.swift */,
 				E00087992A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift */,
 				E000877B2A2DF0BE0027C8B1 /* GradientsBootcamp.swift */,
 				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
@@ -221,6 +224,7 @@
 				E000879E2A30A80C0027C8B1 /* BindingBootcamp.swift in Sources */,
 				E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */,
 				E00087922A2F77280027C8B1 /* GridBootcamp.swift in Sources */,
+				E00087A02A30BE7A0027C8B1 /* ConditionalBootcamp.swift in Sources */,
 				E00087802A2E00920027C8B1 /* ImageBootcamp.swift in Sources */,
 				E000877E2A2DF5370027C8B1 /* IconsBootcamp.swift in Sources */,
 			);
