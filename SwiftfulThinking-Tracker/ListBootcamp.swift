@@ -42,14 +42,17 @@ struct ListBootcamp: View {
                 }
                 
                 ToolbarItem (placement: .navigationBarTrailing) {
-                    Button {
-                        addNewItemToList()
-                    } label: {
-                        Image(systemName: "plus")
-                    }
-
+                    AddButton
                 }
             }
+        }
+    }
+    
+    var AddButton: some View {
+        Button {
+            addNewItemToList()
+        } label: {
+            Image(systemName: "plus")
         }
     }
     
