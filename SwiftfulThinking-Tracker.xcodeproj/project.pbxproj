@@ -37,6 +37,7 @@
 		E00087A42A3126380027C8B1 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A32A3126380027C8B1 /* AnimationBootcamp.swift */; };
 		E00087A62A31DAB40027C8B1 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A52A31DAB40027C8B1 /* AnimationTimingBootcamp.swift */; };
 		E00087A82A31E4AE0027C8B1 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */; };
+		E00087AA2A31EF060027C8B1 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		E00087A32A3126380027C8B1 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		E00087A52A31DAB40027C8B1 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
 		E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
+		E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				E000877B2A2DF0BE0027C8B1 /* GradientsBootcamp.swift */,
 				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
 				E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */,
+				E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */,
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E00087AA2A31EF060027C8B1 /* SheetsBootcamp.swift in Sources */,
 				E00087982A307CA90027C8B1 /* StateBootcamp.swift in Sources */,
 				E000877C2A2DF0BE0027C8B1 /* GradientsBootcamp.swift in Sources */,
 				E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */,
