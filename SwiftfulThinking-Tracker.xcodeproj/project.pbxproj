@@ -36,6 +36,7 @@
 		E00087A22A30C5C20027C8B1 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A12A30C5C20027C8B1 /* TernaryBootcamp.swift */; };
 		E00087A42A3126380027C8B1 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A32A3126380027C8B1 /* AnimationBootcamp.swift */; };
 		E00087A62A31DAB40027C8B1 /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A52A31DAB40027C8B1 /* AnimationTimingBootcamp.swift */; };
+		E00087A82A31E4AE0027C8B1 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		E00087A12A30C5C20027C8B1 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		E00087A32A3126380027C8B1 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		E00087A52A31DAB40027C8B1 /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
+		E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +129,7 @@
 				E00087992A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift */,
 				E000877B2A2DF0BE0027C8B1 /* GradientsBootcamp.swift */,
 				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
+				E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */,
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
@@ -231,6 +234,7 @@
 				E00087962A2FD9860027C8B1 /* ButtonBootcamp.swift in Sources */,
 				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
+				E00087A82A31E4AE0027C8B1 /* TransitionBootcamp.swift in Sources */,
 				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
 				E000879E2A30A80C0027C8B1 /* BindingBootcamp.swift in Sources */,
 				E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */,
