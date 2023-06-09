@@ -41,6 +41,7 @@
 		E00087AC2A31F5AA0027C8B1 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087AB2A31F5AA0027C8B1 /* PopoverBootcamp.swift */; };
 		E00087AE2A31FC200027C8B1 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087AD2A31FC200027C8B1 /* NavigationViewBootcamp.swift */; };
 		E00087B02A3210450027C8B1 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087AF2A3210450027C8B1 /* ListBootcamp.swift */; };
+		E00087B22A3322F00027C8B1 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087B12A3322F00027C8B1 /* AlertBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +80,7 @@
 		E00087AB2A31F5AA0027C8B1 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		E00087AD2A31FC200027C8B1 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		E00087AF2A3210450027C8B1 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
+		E00087B12A3322F00027C8B1 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				E00087AD2A31FC200027C8B1 /* NavigationViewBootcamp.swift */,
 				E00087AF2A3210450027C8B1 /* ListBootcamp.swift */,
 				E000877B2A2DF0BE0027C8B1 /* GradientsBootcamp.swift */,
+				E00087B12A3322F00027C8B1 /* AlertBootcamp.swift */,
 				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
 				E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */,
 				E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */,
@@ -239,6 +242,7 @@
 				E000879A2A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				E000878C2A2F4C1A0027C8B1 /* InitializerBootcamp.swift in Sources */,
 				E00087A22A30C5C20027C8B1 /* TernaryBootcamp.swift in Sources */,
+				E00087B22A3322F00027C8B1 /* AlertBootcamp.swift in Sources */,
 				E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */,
 				E00087942A2FB2230027C8B1 /* SafeAreaBootcamp.swift in Sources */,
 				E00087A62A31DAB40027C8B1 /* AnimationTimingBootcamp.swift in Sources */,
