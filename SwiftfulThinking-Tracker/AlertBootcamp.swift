@@ -57,6 +57,13 @@ struct AlertBootcamp: View {
                 Button("OK") {
                     
                 }
+                Button("Delete") {
+                    
+                }
+                Button("cancel") {
+                    
+                }
+           
             } message: {
                 Text(alertMessage)
             }
