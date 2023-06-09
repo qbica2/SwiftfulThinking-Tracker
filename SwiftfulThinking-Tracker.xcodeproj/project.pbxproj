@@ -44,6 +44,7 @@
 		E00087B22A3322F00027C8B1 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087B12A3322F00027C8B1 /* AlertBootcamp.swift */; };
 		E00087B42A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E00087B32A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift */; };
 		E08D9A052A3343D40097CA6A /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A042A3343D40097CA6A /* ContextMenuBootcamp.swift */; };
+		E08D9A072A334EF80097CA6A /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -85,6 +86,7 @@
 		E00087B12A3322F00027C8B1 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		E00087B32A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A042A3343D40097CA6A /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
+		E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				E000879F2A30BE7A0027C8B1 /* ConditionalBootcamp.swift */,
 				E00087A32A3126380027C8B1 /* AnimationBootcamp.swift */,
 				E00087A52A31DAB40027C8B1 /* AnimationTimingBootcamp.swift */,
+				E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */,
 				E00087A12A30C5C20027C8B1 /* TernaryBootcamp.swift */,
 				E08D9A042A3343D40097CA6A /* ContextMenuBootcamp.swift */,
 				E00087AB2A31F5AA0027C8B1 /* PopoverBootcamp.swift */,
@@ -264,6 +267,7 @@
 				E00087B42A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift in Sources */,
 				E000879E2A30A80C0027C8B1 /* BindingBootcamp.swift in Sources */,
 				E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */,
+				E08D9A072A334EF80097CA6A /* TextfieldBootcamp.swift in Sources */,
 				E00087A42A3126380027C8B1 /* AnimationBootcamp.swift in Sources */,
 				E00087922A2F77280027C8B1 /* GridBootcamp.swift in Sources */,
 				E00087AE2A31FC200027C8B1 /* NavigationViewBootcamp.swift in Sources */,
