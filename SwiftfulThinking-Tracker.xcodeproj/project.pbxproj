@@ -50,6 +50,7 @@
 		E08D9A0D2A3369050097CA6A /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */; };
 		E08D9A0F2A336E3D0097CA6A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */; };
 		E0F60FC82A33905F00FB6611 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */; };
+		E0F60FCA2A33CD5100FB6611 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -97,6 +98,7 @@
 		E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
+		E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -170,6 +172,7 @@
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
 				E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */,
 				E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */,
+				E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -284,6 +287,7 @@
 				E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */,
 				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
 				E00087AC2A31F5AA0027C8B1 /* PopoverBootcamp.swift in Sources */,
+				E0F60FCA2A33CD5100FB6611 /* StepperBootcamp.swift in Sources */,
 				E00087B42A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift in Sources */,
 				E000879E2A30A80C0027C8B1 /* BindingBootcamp.swift in Sources */,
 				E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */,
