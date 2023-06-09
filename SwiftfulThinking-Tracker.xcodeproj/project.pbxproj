@@ -47,6 +47,7 @@
 		E08D9A072A334EF80097CA6A /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */; };
 		E08D9A092A335ABA0097CA6A /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */; };
 		E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */; };
+		E08D9A0D2A3369050097CA6A /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -91,6 +92,7 @@
 		E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
+		E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 				E00087B32A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift */,
 				E00087752A2C9FD60027C8B1 /* TextBootcamp.swift */,
 				E00087A72A31E4AE0027C8B1 /* TransitionBootcamp.swift */,
+				E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */,
 				E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */,
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
@@ -264,6 +267,7 @@
 				E00087942A2FB2230027C8B1 /* SafeAreaBootcamp.swift in Sources */,
 				E00087A62A31DAB40027C8B1 /* AnimationTimingBootcamp.swift in Sources */,
 				E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */,
+				E08D9A0D2A3369050097CA6A /* PickerBootcamp.swift in Sources */,
 				E000878E2A2F59EF0027C8B1 /* ForEachBootcamp.swift in Sources */,
 				E00087962A2FD9860027C8B1 /* ButtonBootcamp.swift in Sources */,
 				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
