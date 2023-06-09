@@ -46,6 +46,7 @@
 		E08D9A052A3343D40097CA6A /* ContextMenuBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A042A3343D40097CA6A /* ContextMenuBootcamp.swift */; };
 		E08D9A072A334EF80097CA6A /* TextfieldBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */; };
 		E08D9A092A335ABA0097CA6A /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */; };
+		E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -89,6 +90,7 @@
 		E08D9A042A3343D40097CA6A /* ContextMenuBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A062A334EF80097CA6A /* TextfieldBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextfieldBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
+		E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 				E00087A12A30C5C20027C8B1 /* TernaryBootcamp.swift */,
 				E08D9A042A3343D40097CA6A /* ContextMenuBootcamp.swift */,
 				E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */,
+				E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */,
 				E00087AB2A31F5AA0027C8B1 /* PopoverBootcamp.swift */,
 				E00087992A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift */,
 				E00087AD2A31FC200027C8B1 /* NavigationViewBootcamp.swift */,
@@ -266,6 +269,7 @@
 				E00087762A2C9FD60027C8B1 /* TextBootcamp.swift in Sources */,
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
 				E00087A82A31E4AE0027C8B1 /* TransitionBootcamp.swift in Sources */,
+				E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */,
 				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
 				E00087AC2A31F5AA0027C8B1 /* PopoverBootcamp.swift in Sources */,
 				E00087B42A3334F70027C8B1 /* ConfirmationDialogBootcamp.swift in Sources */,
