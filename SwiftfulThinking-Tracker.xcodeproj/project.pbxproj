@@ -48,6 +48,7 @@
 		E08D9A092A335ABA0097CA6A /* TextEditorBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */; };
 		E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */; };
 		E08D9A0D2A3369050097CA6A /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */; };
+		E08D9A0F2A336E3D0097CA6A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -93,6 +94,7 @@
 		E08D9A082A335ABA0097CA6A /* TextEditorBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
+		E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 				E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */,
 				E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */,
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
+				E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -265,6 +268,7 @@
 				E00087B22A3322F00027C8B1 /* AlertBootcamp.swift in Sources */,
 				E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */,
 				E00087942A2FB2230027C8B1 /* SafeAreaBootcamp.swift in Sources */,
+				E08D9A0F2A336E3D0097CA6A /* ColorPickerBootcamp.swift in Sources */,
 				E00087A62A31DAB40027C8B1 /* AnimationTimingBootcamp.swift in Sources */,
 				E00087682A2C9EC30027C8B1 /* ContentView.swift in Sources */,
 				E08D9A0D2A3369050097CA6A /* PickerBootcamp.swift in Sources */,
