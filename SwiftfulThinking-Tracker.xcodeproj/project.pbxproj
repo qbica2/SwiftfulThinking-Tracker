@@ -51,6 +51,7 @@
 		E08D9A0F2A336E3D0097CA6A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */; };
 		E0F60FC82A33905F00FB6611 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */; };
 		E0F60FCA2A33CD5100FB6611 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */; };
+		E0F60FCC2A33D14E00FB6611 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FCB2A33D14E00FB6611 /* SliderBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -99,6 +100,7 @@
 		E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
+		E0F60FCB2A33D14E00FB6611 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +175,7 @@
 				E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */,
 				E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */,
 				E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */,
+				E0F60FCB2A33D14E00FB6611 /* SliderBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -292,6 +295,7 @@
 				E000879E2A30A80C0027C8B1 /* BindingBootcamp.swift in Sources */,
 				E000878A2A2F3D6E0027C8B1 /* SpacerBootcamp.swift in Sources */,
 				E08D9A072A334EF80097CA6A /* TextfieldBootcamp.swift in Sources */,
+				E0F60FCC2A33D14E00FB6611 /* SliderBootcamp.swift in Sources */,
 				E00087A42A3126380027C8B1 /* AnimationBootcamp.swift in Sources */,
 				E00087922A2F77280027C8B1 /* GridBootcamp.swift in Sources */,
 				E00087AE2A31FC200027C8B1 /* NavigationViewBootcamp.swift in Sources */,
