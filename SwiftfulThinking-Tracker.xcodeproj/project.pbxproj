@@ -49,6 +49,7 @@
 		E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */; };
 		E08D9A0D2A3369050097CA6A /* PickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */; };
 		E08D9A0F2A336E3D0097CA6A /* ColorPickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */; };
+		E0F60FC82A33905F00FB6611 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -95,6 +96,7 @@
 		E08D9A0A2A335F220097CA6A /* ToggleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A0C2A3369050097CA6A /* PickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerBootcamp.swift; sourceTree = "<group>"; };
 		E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerBootcamp.swift; sourceTree = "<group>"; };
+		E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 				E00087A92A31EF060027C8B1 /* SheetsBootcamp.swift */,
 				E00087772A2CAFDA0027C8B1 /* ShapesBootcamp.swift */,
 				E08D9A0E2A336E3D0097CA6A /* ColorPickerBootcamp.swift */,
+				E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 				E08D9A092A335ABA0097CA6A /* TextEditorBootcamp.swift in Sources */,
 				E00087902A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift in Sources */,
 				E00087882A2F38580027C8B1 /* PaddingBootcamp.swift in Sources */,
+				E0F60FC82A33905F00FB6611 /* DatePickerBootcamp.swift in Sources */,
 				E000877A2A2DE9E20027C8B1 /* ColorsBootcamp.swift in Sources */,
 				E08D9A052A3343D40097CA6A /* ContextMenuBootcamp.swift in Sources */,
 				E000879C2A3096210027C8B1 /* ExtractSubviewsBootcamp.swift in Sources */,
