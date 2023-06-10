@@ -56,6 +56,7 @@
 		E0F60FEE2A348B1D00FB6611 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FED2A348B1D00FB6611 /* DarkModeBootcamp.swift */; };
 		E0F60FF02A3495BF00FB6611 /* DocumantationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */; };
 		E0F60FF22A349A4C00FB6611 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */; };
+		E0F6100E2A34B66100FB6611 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F6100D2A34B66100FB6611 /* IfLetGuardBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -109,6 +110,7 @@
 		E0F60FED2A348B1D00FB6611 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumantationBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		E0F6100D2A34B66100FB6611 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 				E0F60FED2A348B1D00FB6611 /* DarkModeBootcamp.swift */,
 				E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */,
 				E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */,
+				E0F6100D2A34B66100FB6611 /* IfLetGuardBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -287,6 +290,7 @@
 				E00087822A2E04390027C8B1 /* FrameBootcamp.swift in Sources */,
 				E000879A2A308B290027C8B1 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				E000878C2A2F4C1A0027C8B1 /* InitializerBootcamp.swift in Sources */,
+				E0F6100E2A34B66100FB6611 /* IfLetGuardBootcamp.swift in Sources */,
 				E00087A22A30C5C20027C8B1 /* TernaryBootcamp.swift in Sources */,
 				E00087B22A3322F00027C8B1 /* AlertBootcamp.swift in Sources */,
 				E00087782A2CAFDA0027C8B1 /* ShapesBootcamp.swift in Sources */,
