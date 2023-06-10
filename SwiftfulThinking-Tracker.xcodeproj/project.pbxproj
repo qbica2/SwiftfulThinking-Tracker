@@ -55,6 +55,7 @@
 		E0F60FEC2A347A6100FB6611 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FEB2A347A6100FB6611 /* TabViewBootcamp.swift */; };
 		E0F60FEE2A348B1D00FB6611 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FED2A348B1D00FB6611 /* DarkModeBootcamp.swift */; };
 		E0F60FF02A3495BF00FB6611 /* DocumantationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */; };
+		E0F60FF22A349A4C00FB6611 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -107,6 +108,7 @@
 		E0F60FEB2A347A6100FB6611 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FED2A348B1D00FB6611 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumantationBootcamp.swift; sourceTree = "<group>"; };
+		E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				E0F60FEB2A347A6100FB6611 /* TabViewBootcamp.swift */,
 				E0F60FED2A348B1D00FB6611 /* DarkModeBootcamp.swift */,
 				E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */,
+				E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -298,6 +301,7 @@
 				E00087662A2C9EC30027C8B1 /* SwiftfulThinking_TrackerApp.swift in Sources */,
 				E00087A82A31E4AE0027C8B1 /* TransitionBootcamp.swift in Sources */,
 				E08D9A0B2A335F220097CA6A /* ToggleBootcamp.swift in Sources */,
+				E0F60FF22A349A4C00FB6611 /* OnAppearBootcamp.swift in Sources */,
 				E00087862A2E23E10027C8B1 /* StacksBootcamp.swift in Sources */,
 				E00087AC2A31F5AA0027C8B1 /* PopoverBootcamp.swift in Sources */,
 				E0F60FF02A3495BF00FB6611 /* DocumantationBootcamp.swift in Sources */,

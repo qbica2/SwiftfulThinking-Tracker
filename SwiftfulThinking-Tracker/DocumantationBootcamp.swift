@@ -25,7 +25,7 @@ struct DocumantationBootcamp: View {
      */
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             ZStack {
                 // background
                 Color.red.ignoresSafeArea()
