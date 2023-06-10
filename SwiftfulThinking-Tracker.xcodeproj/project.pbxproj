@@ -57,6 +57,7 @@
 		E0F60FF02A3495BF00FB6611 /* DocumantationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */; };
 		E0F60FF22A349A4C00FB6611 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */; };
 		E0F6100E2A34B66100FB6611 /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F6100D2A34B66100FB6611 /* IfLetGuardBootcamp.swift */; };
+		E0F610102A34B9EE00FB6611 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F6100F2A34B9EE00FB6611 /* TapGestureBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -111,6 +112,7 @@
 		E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumantationBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 		E0F6100D2A34B66100FB6611 /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
+		E0F6100F2A34B9EE00FB6611 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -191,6 +193,7 @@
 				E0F60FEF2A3495BF00FB6611 /* DocumantationBootcamp.swift */,
 				E0F60FF12A349A4C00FB6611 /* OnAppearBootcamp.swift */,
 				E0F6100D2A34B66100FB6611 /* IfLetGuardBootcamp.swift */,
+				E0F6100F2A34B9EE00FB6611 /* TapGestureBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -280,6 +283,7 @@
 				E000877C2A2DF0BE0027C8B1 /* GradientsBootcamp.swift in Sources */,
 				E0F60FEC2A347A6100FB6611 /* TabViewBootcamp.swift in Sources */,
 				E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */,
+				E0F610102A34B9EE00FB6611 /* TapGestureBootcamp.swift in Sources */,
 				E08D9A092A335ABA0097CA6A /* TextEditorBootcamp.swift in Sources */,
 				E00087902A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift in Sources */,
 				E00087882A2F38580027C8B1 /* PaddingBootcamp.swift in Sources */,
