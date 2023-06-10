@@ -52,6 +52,7 @@
 		E0F60FC82A33905F00FB6611 /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */; };
 		E0F60FCA2A33CD5100FB6611 /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */; };
 		E0F60FCC2A33D14E00FB6611 /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FCB2A33D14E00FB6611 /* SliderBootcamp.swift */; };
+		E0F60FEC2A347A6100FB6611 /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0F60FEB2A347A6100FB6611 /* TabViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -101,6 +102,7 @@
 		E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		E0F60FCB2A33D14E00FB6611 /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
+		E0F60FEB2A347A6100FB6611 /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				E0F60FC72A33905F00FB6611 /* DatePickerBootcamp.swift */,
 				E0F60FC92A33CD5100FB6611 /* StepperBootcamp.swift */,
 				E0F60FCB2A33D14E00FB6611 /* SliderBootcamp.swift */,
+				E0F60FEB2A347A6100FB6611 /* TabViewBootcamp.swift */,
 				E00087692A2C9EC40027C8B1 /* Assets.xcassets */,
 				E000876B2A2C9EC40027C8B1 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 				E00087AA2A31EF060027C8B1 /* SheetsBootcamp.swift in Sources */,
 				E00087982A307CA90027C8B1 /* StateBootcamp.swift in Sources */,
 				E000877C2A2DF0BE0027C8B1 /* GradientsBootcamp.swift in Sources */,
+				E0F60FEC2A347A6100FB6611 /* TabViewBootcamp.swift in Sources */,
 				E00087842A2E14CC0027C8B1 /* BackgroundAndOverlayBootcamp.swift in Sources */,
 				E08D9A092A335ABA0097CA6A /* TextEditorBootcamp.swift in Sources */,
 				E00087902A2F6F5F0027C8B1 /* ScrollViewBootcamp.swift in Sources */,
