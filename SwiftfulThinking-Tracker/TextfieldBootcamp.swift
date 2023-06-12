@@ -10,6 +10,8 @@ import SwiftUI
 struct TextfieldBootcamp: View {
     
     @State var textFieldText: String = ""
+    @State var secontText: String = ""
+    @State var thirtText: String = ""
     @State var dataArray: [String] = []
     
     var body: some View {
@@ -21,6 +23,34 @@ struct TextfieldBootcamp: View {
                     .cornerRadius(10)
                     .font(.headline)
                     .foregroundColor(.red)
+                    .submitLabel(.continue)
+                    .onSubmit {
+                        print("sadas")
+                    }
+                    
+                
+                TextField("Type something here ...", text: $secontText)
+                    .padding()
+                    .background(.gray.opacity(0.4))
+                    .cornerRadius(10)
+                    .font(.headline)
+                    .foregroundColor(.red)
+                    .submitLabel(.done)
+                    .onSubmit {
+                        print("sadas")
+                    }
+                
+                TextField("Type something here ...", text: $thirtText)
+                    .padding()
+                    .background(.gray.opacity(0.4))
+                    .cornerRadius(10)
+                    .font(.headline)
+                    .foregroundColor(.red)
+//                    .submitLabel(.go)
+                    .submitLabel(.join)
+                    .onSubmit {
+                        print("sadas")
+                    }
                 
                 Button {
                     if isTextFieldValid() {
